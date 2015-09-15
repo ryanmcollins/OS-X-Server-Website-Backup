@@ -6,7 +6,7 @@ backup_parent_dir="/volumes/external/test"
 
 # MySQL settings
 mysql_user="root"
-mysql_password="4rZM963e"
+mysql_password="1234"
 
 # Read MySQL password from stdin if empty
 if [ -z "${mysql_password}" ]; then
