@@ -2,10 +2,10 @@
 # Simple script to backup MySQL databases
 
 # Parent backup directory
-backup_parent_dir="/volumes/external/test"
+backup_parent_dir="/path/to/backup"
 
 # MySQL settings
-mysql_user="root"
+mysql_user="user"
 mysql_password="1234"
 
 # Read MySQL password from stdin if empty
